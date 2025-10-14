@@ -15,7 +15,6 @@ class Person:
             last_name (str): El apellido de la persona
         """
         
-        
     
     def __str__(self):
         """
